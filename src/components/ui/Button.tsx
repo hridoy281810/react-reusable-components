@@ -1,5 +1,5 @@
 
-import { ButtonHTMLAttributes, Children, DetailedHTMLProps, forwardRef } from 'react';
+import { ButtonHTMLAttributes,DetailedHTMLProps, forwardRef } from 'react';
 import cn from '../../utils/cn';
 type TRef = HTMLButtonElement;
 type TVariant = "solid" | "ghost" | "outline"
